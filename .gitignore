@@ -7,3 +7,6 @@ node_modules/
 # Berkas lain
 *.log
 .DS_Store
+
+# Folder kerja sementara untuk screenshot
+.kuis-shots/

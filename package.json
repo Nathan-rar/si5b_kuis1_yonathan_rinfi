@@ -19,5 +19,14 @@
     "cors": "^2.8.6",
     "dotenv": "^18.0.6",
     "express": "^5.2.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nathan-rar/si5b_kuis1_yonathan_rinfi.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Nathan-rar/si5b_kuis1_yonathan_rinfi/issues"
+  },
+  "homepage": "https://github.com/Nathan-rar/si5b_kuis1_yonathan_rinfi#readme"
 }
