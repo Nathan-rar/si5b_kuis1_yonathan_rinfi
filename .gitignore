@@ -1,0 +1,9 @@
+# Dependensi
+node_modules/
+
+# Berkas rahasia - tidak boleh ikut terunggah
+.env
+
+# Berkas lain
+*.log
+.DS_Store

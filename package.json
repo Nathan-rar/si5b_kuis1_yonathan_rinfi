@@ -1,0 +1,23 @@
+{
+  "name": "si5b_kuis1_yonathan_rinfi",
+  "version": "1.0.0",
+  "description": "Kuis 1 Pengembangan Aplikasi Web II - Refactor RESTful API Reservasi Ruang Rapat ke arsitektur Route, Controller, Model, dan Middleware",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "keywords": [
+    "express",
+    "restful-api",
+    "coworking-space",
+    "reservasi-ruang-rapat"
+  ],
+  "author": "Yonathan Rinfi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.6",
+    "express": "^5.2.1"
+  }
+}
